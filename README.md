@@ -3,6 +3,8 @@
 **Project Duration:** March 2024 - August 2024  
 **Associated with:** University of Moratuwa
 
+![Group Photo](SmartSort_Images/Group_Photo.jpg)
+
 ## Project Overview
 SMARTSORT is an advanced automated food sorting system designed to improve the efficiency and accuracy of cookie quality control on a conveyor belt. By utilizing computer vision, sensor technologies, and automated sorting mechanisms, the system ensures precise identification and sorting of cookies based on shape, humidity conditions, and real-time data.
 
