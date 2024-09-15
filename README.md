@@ -43,6 +43,8 @@ SMARTSORT is an advanced automated food sorting system designed to improve the e
 - **Computer Vision:** Real-time shape detection algorithm
 - **Humidity & Environmental Management:** Integrated humidity sensors and exhaust control
 
+  ![Setup Image](Images/Setup_Image1.jpeg)
+
 
 
 
